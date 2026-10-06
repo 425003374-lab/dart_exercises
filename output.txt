@@ -1,0 +1,18 @@
+----------------------------
+|      My information      |
+----------------------------
+Name: cris
+Age: 20
+Ave: 95
+Student: true
+Adult: true
+NextYear Age: 21
+
+
+
+
+This part is for operation
+46
+4
+525
+1.1904761904761905
